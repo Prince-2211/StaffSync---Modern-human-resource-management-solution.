@@ -163,4 +163,4 @@ See **DEPLOYMENT.md** for the full step-by-step guide.
 
 ## Author
 
-Vidushi Singh — Information Technology
+Moiz Khan Multani — Information Technology
